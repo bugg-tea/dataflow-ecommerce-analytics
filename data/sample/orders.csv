@@ -1,0 +1,6 @@
+order_id,customer_id,order_status,order_purchase_timestamp
+O1,C1,delivered,2024-01-10 10:00:00
+O2,C2,delivered,2024-01-15 11:00:00
+O3,C3,canceled,2024-02-01 12:00:00
+O4,C4,shipped,2024-02-10 13:00:00
+O5,C5,delivered,2024-03-05 14:00:00

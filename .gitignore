@@ -1,0 +1,34 @@
+# Python environments
+.venv/
+.venv311/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Downloaded real datasets
+data/raw/
+
+# Generated test and coverage reports
+htmlcov/
+.coverage
+coverage.xml
+reports/
+playwright-report/
+test-results/
+
+# Local artifacts
+*.log
+.DS_Store
